@@ -4,6 +4,6 @@
     "multer-aliyun-oss": "^1.0.4",
     "mysql": "^2.18.1",
     "nest.js": "^1.0.8",
-    "typeorm": "^0.2.24"
+    "typeorm": "^0.2.25"
   }
 }
